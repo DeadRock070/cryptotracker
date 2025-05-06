@@ -98,7 +98,7 @@ export const Nav = () => {
             <ThemeToggle />
 
             <a
-              href="https://github.com/mrmendoza171/cryptotracker"
+              href="https://github.com/DeadRock070/cryptotracker"
               target="_blank"
               rel="noopener"
               className="flex items-center justify-center w-10 h-10 rounded-lg
